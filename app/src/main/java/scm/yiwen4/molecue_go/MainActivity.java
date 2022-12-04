@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
                                 return null;
                             });
         }
-///ssssss
+///sssssssss
         fragment.setOnTapArPlaneListener(
                 (HitResult hitResult, Plane plane, MotionEvent motionEvent) -> {
                     int renderable_index = rand.nextInt(renderables.length); // exercise 1
